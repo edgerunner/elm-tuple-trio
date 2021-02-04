@@ -3,7 +3,7 @@
     "source-directories": [
         "src"
     ],
-    "name": "edgerunner/tuple-trio",
+    "name": "edgerunner/elm-tuple-trio",
     "repository": "https://github.com/edgerunner/elm-tuple-trio.git",
     "license": "MIT",
     "summary": "The missing (from the core) love for the 3-tuple",
